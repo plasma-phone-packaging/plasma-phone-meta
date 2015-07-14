@@ -1,5 +1,5 @@
 #! /usr/bin/make -f
 %:
 	# cludgy I know, jr
-	sed s,plasma-phone-phone,plasma-phone, -i metapackage-map
+	-sed s,plasma-phone-phone,plasma-phone, -i metapackage-map
 	dh $@ --with germinate
