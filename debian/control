@@ -1,0 +1,18 @@
+Source: plasma-phone-meta
+Section: metapackages
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+
+Package: plasma-phone
+Architecture: amd64 armhf
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Kubuntu Plasma Desktop/Netbook system
+ This package depends on all of the packages in the Kubuntu desktop system.
+ Installing this package will include the default Kubuntu Plasma Desktop or
+ Netbook installation.
+ .
+ It is safe to remove this package if some of the desktop system packages are
+ not desired.

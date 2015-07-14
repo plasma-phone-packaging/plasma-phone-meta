@@ -1,0 +1,61 @@
+plasma-phone-meta (1) vivid; urgency=medium
+
+  * Refreshed dependencies
+  * Added voicecall to phone [amd64]
+  * Added koko to phone [amd64]
+  * Added kwin-wayland to phone [amd64]
+  * Added kwin-wayland-backend-hwcomposer to phone [amd64]
+  * Added plasma-camera to phone [amd64]
+  * Added plasma-maliit-framework to phone [amd64]
+  * Added plasma-maliit-plugins to phone [amd64]
+  * Added plasma-phone-components to phone [amd64]
+  * Added plasma-phone-dev-setup to phone [amd64]
+  * Added plasma-phone-settings to phone [amd64]
+  * Added plasma-sdk to phone [amd64]
+  * Added plasma-settings to phone [amd64]
+  * Added plasma-volume-control to phone [amd64]
+  * Added qml-module-org-kde-bluezqt to phone [amd64]
+  * Added qml-module-org-kde-kaccounts to phone [amd64]
+  * Added simplelogin to phone [amd64]
+  * Added apparmor to phone
+  * Added bash-completion to phone
+  * Added gstreamer0.10-fluendo-mp3 to phone
+  * Added initramfs-tools-ubuntu-touch to phone
+  * Added kdeconnect-plasma to phone
+  * Added kinfocenter to phone
+  * Added konsole to phone
+  * Added kpackagelauncherqml to phone
+  * Added kwin-style-breeze to phone
+  * Added libhybris to phone
+  * Added libhybris-common1 to phone
+  * Added libhybris-test to phone
+  * Added libhybris-utils to phone
+  * Added libnss-extrausers to phone
+  * Added libpam-modules to phone
+  * Added libpam-modules-bin to phone
+  * Added lxc-android-config to phone
+  * Added muon-discover to phone
+  * Added okular to phone
+  * Added plasma-nm to phone
+  * Added qml-module-org-kde-analitza to phone
+  * Added qml-module-org-kde-draganddrop to phone
+  * Added qml-module-org-kde-extensionplugin to phone
+  * Added qml-module-org-kde-kcoreaddons to phone
+  * Added qml-module-org-kde-kio to phone
+  * Added qml-module-org-kde-kquickcontrols to phone
+  * Added qml-module-org-kde-kquickcontrolsaddons to phone
+  * Added qml-module-org-kde-kwindowsystem to phone
+  * Added qml-module-org-kde-people to phone
+  * Added qml-module-org-kde-runnermodel to phone
+  * Added qml-module-org-kde-solid to phone
+  * Added qtdeclarative5-private-dev to phone
+  * Added qtwayland5 to phone
+  * Added system-image-cli to phone
+  * Added system-image-common to phone
+  * Added system-image-dbus to phone
+  * Added ubuntu-touch-customization-hooks to phone
+  * Added ubuntu-touch-generic-initrd to phone
+  * Added vim to phone
+  * Added xwayland to phone
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 14 Jul 2015 12:21:39 +0200
