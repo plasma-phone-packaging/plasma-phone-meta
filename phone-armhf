@@ -49,6 +49,7 @@ qml-module-org-kde-runnermodel
 qml-module-org-kde-solid
 qtdeclarative5-private-dev
 qtwayland5
+signon-ui
 simplelogin
 system-image-cli
 system-image-common
