@@ -1,9 +1,15 @@
-plasma-phone-meta (2) UNRELEASED; urgency=medium
+plasma-phone-meta (3) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added kio to phone
+  * Refreshed dependencies
+  * Added kio-extras to phone
+  * Added marble-maps to phone
+  * Added okular-mobile to phone
+  * Added qml-module-org-kde-activities to phone
+  * Removed okular from phone
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 17 Jul 2015 11:59:44 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 24 Sep 2015 13:48:07 +0100
 
 plasma-phone-meta (1) vivid; urgency=medium
 

@@ -5,6 +5,7 @@ initramfs-tools-ubuntu-touch
 kdeconnect-plasma
 kinfocenter
 kio
+kio-extras
 koko
 konsole
 kpackagelauncherqml
@@ -19,8 +20,9 @@ libnss-extrausers
 libpam-modules
 libpam-modules-bin
 lxc-android-config
+marble-maps
 muon-discover
-okular
+okular-mobile
 plasma-camera
 plasma-maliit-framework
 plasma-maliit-plugins
@@ -31,6 +33,7 @@ plasma-phone-settings
 plasma-sdk
 plasma-settings
 plasma-volume-control
+qml-module-org-kde-activities
 qml-module-org-kde-analitza
 qml-module-org-kde-bluezqt
 qml-module-org-kde-draganddrop
