@@ -1,4 +1,4 @@
-plasma-phone-meta (5) UNRELEASED; urgency=medium
+plasma-phone-meta (6) UNRELEASED; urgency=medium
 
   * Refreshed dependencies
   * Added kio to phone
@@ -12,8 +12,11 @@ plasma-phone-meta (5) UNRELEASED; urgency=medium
   * Added signon-ui to phone
   * Refreshed dependencies
   * Added pam-kwallet5 to phone
+  * Refreshed dependencies
+  * Added maliit-inputcontext-gtk to phone
+  * Added screenshotapp to phone
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 24 Sep 2015 23:35:53 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 15 Oct 2015 09:41:46 +0100
 
 plasma-phone-meta (1) vivid; urgency=medium
 

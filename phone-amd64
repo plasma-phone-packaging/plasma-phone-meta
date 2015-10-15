@@ -20,6 +20,7 @@ libnss-extrausers
 libpam-modules
 libpam-modules-bin
 lxc-android-config
+maliit-inputcontext-gtk
 marble-maps
 muon-discover
 okular-mobile
@@ -50,6 +51,7 @@ qml-module-org-kde-runnermodel
 qml-module-org-kde-solid
 qtdeclarative5-private-dev
 qtwayland5
+screenshotapp
 signon-ui
 simplelogin
 system-image-cli
