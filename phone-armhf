@@ -12,10 +12,10 @@ kpackagelauncherqml
 kwin-style-breeze
 kwin-wayland
 kwin-wayland-backend-hwcomposer
-libhybris
 libhybris-common1
 libhybris-test
 libhybris-utils
+libhybris1
 libnss-extrausers
 libpam-modules
 libpam-modules-bin
