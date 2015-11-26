@@ -1,5 +1,7 @@
 apparmor
 bash-completion
+discover
+firefox
 gstreamer0.10-fluendo-mp3
 initramfs-tools-ubuntu-touch
 kdeconnect-plasma
@@ -22,7 +24,7 @@ libpam-modules-bin
 lxc-android-config
 maliit-inputcontext-gtk
 marble-maps
-muon-discover
+muon
 okular-mobile
 pam-kwallet5
 plasma-camera
@@ -60,5 +62,4 @@ system-image-dbus
 ubuntu-touch-customization-hooks
 ubuntu-touch-generic-initrd
 vim
-voicecall
 xwayland

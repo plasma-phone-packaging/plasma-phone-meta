@@ -1,5 +1,6 @@
-plasma-phone-meta (7) UNRELEASED; urgency=medium
+plasma-phone-meta (9) UNRELEASED; urgency=medium
 
+  [ Jonathan Riddell ]
   * Refreshed dependencies
   * Added kio to phone
   * Refreshed dependencies
@@ -19,7 +20,16 @@ plasma-phone-meta (7) UNRELEASED; urgency=medium
   * Added libhybris1 to phone [armhf]
   * Removed libhybris from phone
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 16 Oct 2015 12:46:25 +0100
+  [ Rohan Garg ]
+  * Refreshed dependencies
+  * Added discover to phone
+  * Removed muon-discover from phone
+  * Refreshed dependencies
+  * Added firefox to phone
+  * Added muon to phone
+  * Removed voicecall from phone
+
+ -- Rohan Garg <rohan@kde.org>  Thu, 26 Nov 2015 10:21:24 +0100
 
 plasma-phone-meta (1) vivid; urgency=medium
 
