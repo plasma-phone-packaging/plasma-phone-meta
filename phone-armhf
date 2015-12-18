@@ -1,6 +1,5 @@
 apparmor
 bash-completion
-discover
 firefox
 gstreamer0.10-fluendo-mp3
 initramfs-tools-ubuntu-touch
@@ -27,6 +26,7 @@ marble-maps
 muon
 okular-mobile
 pam-kwallet5
+peruse
 plasma-camera
 plasma-maliit-framework
 plasma-maliit-plugins

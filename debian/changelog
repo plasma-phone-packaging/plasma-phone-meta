@@ -1,4 +1,4 @@
-plasma-phone-meta (9) UNRELEASED; urgency=medium
+plasma-phone-meta (10) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * Refreshed dependencies
@@ -29,7 +29,12 @@ plasma-phone-meta (9) UNRELEASED; urgency=medium
   * Added muon to phone
   * Removed voicecall from phone
 
- -- Rohan Garg <rohan@kde.org>  Thu, 26 Nov 2015 10:21:24 +0100
+  [ Bhushan Shah ]
+  * Refreshed dependencies
+  * Added peruse to phone
+  * Removed discover from phone
+
+ -- Bhushan Shah <bhush94@gmail.com>  Fri, 18 Dec 2015 09:48:33 +0530
 
 plasma-phone-meta (1) vivid; urgency=medium
 
