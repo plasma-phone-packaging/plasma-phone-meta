@@ -1,4 +1,4 @@
-plasma-phone-meta (11) UNRELEASED; urgency=medium
+plasma-phone-meta (12) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * Refreshed dependencies
@@ -35,8 +35,11 @@ plasma-phone-meta (11) UNRELEASED; urgency=medium
   * Removed discover from phone
   * Refreshed dependencies
   * Added kaccounts-mobile to phone
+  * Refreshed dependencies
+  * Added muon-discover to phone
+  * Removed muon from phone
 
- -- Bhushan Shah <bhush94@gmail.com>  Fri, 18 Dec 2015 04:54:09 +0000
+ -- Bhushan Shah <bhush94@gmail.com>  Mon, 04 Jan 2016 06:16:30 +0000
 
 plasma-phone-meta (1) vivid; urgency=medium
 
