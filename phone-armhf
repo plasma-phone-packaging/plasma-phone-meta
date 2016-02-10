@@ -1,7 +1,6 @@
 apparmor
 bash-completion
 firefox
-gstreamer0.10-fluendo-mp3
 initramfs-tools-ubuntu-touch
 kaccounts-mobile
 kdeconnect-plasma
@@ -52,7 +51,6 @@ qml-module-org-kde-kwindowsystem
 qml-module-org-kde-people
 qml-module-org-kde-runnermodel
 qml-module-org-kde-solid
-qtdeclarative5-private-dev
 qtwayland5
 screenshotapp
 signon-ui
