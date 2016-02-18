@@ -18,6 +18,7 @@ libhybris-common1
 libhybris-test
 libhybris-utils
 libnss-extrausers
+libpam-kwallet5
 libpam-modules
 libpam-modules-bin
 lxc-android-config
@@ -25,7 +26,6 @@ maliit-inputcontext-gtk
 marble-maps
 muon-discover
 okular-mobile
-pam-kwallet5
 peruse
 plasma-camera
 plasma-maliit-framework

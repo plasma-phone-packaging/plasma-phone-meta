@@ -1,3 +1,9 @@
+plasma-phone-meta (15) vivid; urgency=medium
+
+  * Package was renamed
+
+ -- Bhushan Shah <bshah@kde.org>  Thu, 18 Feb 2016 19:26:32 +0530
+
 plasma-phone-meta (14) vivid; urgency=medium
 
   [ Jonathan Riddell ]
