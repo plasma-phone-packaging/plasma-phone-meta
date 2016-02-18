@@ -1,4 +1,4 @@
-plasma-phone-meta (13) UNRELEASED; urgency=medium
+plasma-phone-meta (14) vivid; urgency=medium
 
   [ Jonathan Riddell ]
   * Refreshed dependencies
@@ -41,8 +41,9 @@ plasma-phone-meta (13) UNRELEASED; urgency=medium
   * Refreshed dependencies
   * Removed gstreamer0.10-fluendo-mp3 from phone
   * Removed qtdeclarative5-private-dev from phone
+  * Added appstream-data
 
- -- Bhushan Shah <bshah@kde.org>  Wed, 10 Feb 2016 16:21:49 +0530
+ -- Bhushan Shah <bshah@kde.org>  Thu, 18 Feb 2016 13:58:01 +0530
 
 plasma-phone-meta (1) vivid; urgency=medium
 
