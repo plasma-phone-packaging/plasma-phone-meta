@@ -1,3 +1,9 @@
+plasma-phone-meta (17) vivid; urgency=medium
+
+  * Removed appstream-data
+
+ -- Bhushan Shah <bshah@kde.org>  Tue, 01 Mar 2016 11:43:44 +0530
+
 plasma-phone-meta (16) vivid; urgency=medium
 
   * Added spacebar

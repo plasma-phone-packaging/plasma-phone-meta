@@ -1,5 +1,4 @@
 apparmor
-appstream-data
 bash-completion
 firefox
 initramfs-tools-ubuntu-touch
