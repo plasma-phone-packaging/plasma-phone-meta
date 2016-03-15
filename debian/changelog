@@ -1,3 +1,9 @@
+plasma-phone-meta (18) xenial; urgency=medium
+
+  * Renamed package
+
+ -- Bhushan Shah <bshah@kde.org>  Tue, 15 Mar 2016 13:49:02 +0530
+
 plasma-phone-meta (17) vivid; urgency=medium
 
   * Removed appstream-data
