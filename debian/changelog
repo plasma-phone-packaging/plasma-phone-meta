@@ -1,3 +1,9 @@
+plasma-phone-meta (19) xenial; urgency=medium
+
+  * Removed qml-module-org-kde-analitza
+
+ -- Bhushan Shah <bshah@kde.org>  Wed, 20 Apr 2016 12:03:03 +0530
+
 plasma-phone-meta (18) xenial; urgency=medium
 
   * Renamed package

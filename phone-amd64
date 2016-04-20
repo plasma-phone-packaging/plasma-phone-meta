@@ -37,7 +37,6 @@ plasma-phone-settings
 plasma-sdk
 plasma-settings
 qml-module-org-kde-activities
-qml-module-org-kde-analitza
 qml-module-org-kde-bluezqt
 qml-module-org-kde-draganddrop
 qml-module-org-kde-extensionplugin
