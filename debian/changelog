@@ -1,3 +1,9 @@
+plasma-phone-meta (21) xenial; urgency=medium
+
+  * Added kactivitymanagerd
+
+ -- Bhushan Shah <bshah@kde.org>  Mon, 25 Jul 2016 11:40:23 +0530
+
 plasma-phone-meta (20) xenial; urgency=medium
 
   * Removed kdeconnect and kinfocenter
