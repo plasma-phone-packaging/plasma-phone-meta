@@ -1,3 +1,9 @@
+plasma-phone-meta (22) xenial; urgency=medium
+
+  * Install libhybris instead of libhybris1
+
+ -- Bhushan Shah <bshah@kde.org>  Sun, 18 Dec 2016 10:49:07 +0530
+
 plasma-phone-meta (21) xenial; urgency=medium
 
   * Added kactivitymanagerd
