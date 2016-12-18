@@ -1,3 +1,9 @@
+plasma-phone-meta (23) UNRELEASED; urgency=medium
+
+  * don't do plasma-phone-dev-setup
+
+ -- Bhushan Shah <bshah@kde.org>  Sun, 18 Dec 2016 13:25:25 +0530
+
 plasma-phone-meta (22) xenial; urgency=medium
 
   * Install libhybris instead of libhybris1
