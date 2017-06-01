@@ -1,8 +1,9 @@
-plasma-phone-meta (23) UNRELEASED; urgency=medium
+plasma-phone-meta (24) xenial; urgency=medium
 
   * don't do plasma-phone-dev-setup
+  * remove some packages
 
- -- Bhushan Shah <bshah@kde.org>  Sun, 18 Dec 2016 13:25:25 +0530
+ -- Bhushan Shah <bshah@kde.org>  Thu, 01 Jun 2017 22:54:31 +0530
 
 plasma-phone-meta (22) xenial; urgency=medium
 

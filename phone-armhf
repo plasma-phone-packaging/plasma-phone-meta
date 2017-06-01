@@ -23,7 +23,6 @@ libpam-modules-bin
 lxc-android-config
 maliit-inputcontext-gtk
 marble-maps
-muon-discover
 okular-mobile
 peruse
 plasma-camera
@@ -36,7 +35,6 @@ plasma-phone-settings
 plasma-sdk
 plasma-settings
 qml-module-org-kde-activities
-qml-module-org-kde-bluezqt
 qml-module-org-kde-draganddrop
 qml-module-org-kde-extensionplugin
 qml-module-org-kde-kaccounts
