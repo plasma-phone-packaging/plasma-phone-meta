@@ -1,3 +1,9 @@
+plasma-phone-meta (25) xenial; urgency=medium
+
+  * Remove lxc-android-config
+
+ -- Bhushan Shah <bshah@kde.org>  Fri, 02 Jun 2017 11:13:21 +0530
+
 plasma-phone-meta (24) xenial; urgency=medium
 
   * don't do plasma-phone-dev-setup

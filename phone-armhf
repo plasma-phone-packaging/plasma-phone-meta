@@ -20,7 +20,6 @@ libnss-extrausers
 libpam-kwallet5
 libpam-modules
 libpam-modules-bin
-lxc-android-config
 maliit-inputcontext-gtk
 marble-maps
 okular-mobile
