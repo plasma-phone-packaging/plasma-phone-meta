@@ -1,7 +1,6 @@
 apparmor
 bash-completion
 firefox
-initramfs-tools-ubuntu-touch
 kaccounts-mobile
 kactivitymanagerd
 kio
@@ -50,10 +49,5 @@ screenshotapp
 signon-ui
 simplelogin
 spacebar
-system-image-cli
-system-image-common
-system-image-dbus
-ubuntu-touch-customization-hooks
-ubuntu-touch-generic-initrd
 vim
 xwayland
