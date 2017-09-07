@@ -16,7 +16,6 @@ kwin-wayland-backend-hwcomposer
 libhybris-common1
 libhybris-test
 libhybris-utils
-libnss-extrausers
 libpam-kwallet5
 libpam-modules
 libpam-modules-bin

@@ -15,7 +15,6 @@ libhybris-common1
 libhybris-test
 libhybris-utils
 libhybris
-libnss-extrausers
 libpam-kwallet5
 libpam-modules
 libpam-modules-bin
