@@ -1,3 +1,9 @@
+plasma-phone-meta (29) xenial; urgency=medium
+
+  * Add bunch of more packages and install gstreamer plugins
+
+ -- Bhushan Shah <bshah@kde.org>  Fri, 02 Jun 2017 12:04:41 +0530
+
 plasma-phone-meta (28) xenial; urgency=medium
 
   * Remove plasma-sdk

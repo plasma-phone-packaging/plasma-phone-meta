@@ -5,6 +5,7 @@ kaccounts-mobile
 kactivitymanagerd
 kio
 kio-extras
+kirigami-gallery
 koko
 konsole
 kpackagelauncherqml
@@ -23,7 +24,9 @@ marble-maps
 okular-mobile
 openssh-server
 peruse
+phonon4qt5-backend-gstreamer
 plasma-camera
+plasma-discover
 plasma-maliit-framework
 plasma-maliit-plugins
 plasma-nm
@@ -41,6 +44,7 @@ qml-module-org-kde-kquickcontrols
 qml-module-org-kde-kquickcontrolsaddons
 qml-module-org-kde-kwindowsystem
 qml-module-org-kde-people
+qml-module-org-kde-purpose
 qml-module-org-kde-runnermodel
 qml-module-org-kde-solid
 qtwayland5
