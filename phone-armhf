@@ -34,6 +34,7 @@ plasma-pa
 plasma-phone-components
 plasma-phone-settings
 plasma-settings
+polkit-kde-agent-1
 qml-module-org-kde-activities
 qml-module-org-kde-draganddrop
 qml-module-org-kde-extensionplugin
@@ -47,6 +48,7 @@ qml-module-org-kde-people
 qml-module-org-kde-purpose
 qml-module-org-kde-runnermodel
 qml-module-org-kde-solid
+qml-module-qt-labs-settings
 qtwayland5
 screenshotapp
 signon-ui
