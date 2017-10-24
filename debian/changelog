@@ -1,3 +1,9 @@
+plasma-phone-meta (34) xenial; urgency=medium
+
+  * Remove okular-mobile for now
+
+ -- Bhushan Shah <bshah@kde.org>  Fri, 02 Jun 2017 12:04:41 +0530
+
 plasma-phone-meta (33) xenial; urgency=medium
 
   * Add flatpak and snapd backend to discover
