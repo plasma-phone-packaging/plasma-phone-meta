@@ -1,7 +1,6 @@
 apparmor
 bash-completion
 firefox
-flatpak
 kaccounts-mobile
 kactivitymanagerd
 kio
@@ -54,7 +53,6 @@ qtwayland5
 screenshotapp
 signon-ui
 simplelogin
-snapd
 spacebar
 vim
 xwayland
