@@ -27,9 +27,6 @@ openssh-server
 peruse
 phonon4qt5-backend-gstreamer
 plasma-camera
-plasma-discover
-plasma-discover-flatpak-backend
-plasma-discover-snap-backend
 plasma-maliit-framework
 plasma-maliit-plugins
 plasma-nm

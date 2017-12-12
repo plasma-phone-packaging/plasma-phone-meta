@@ -1,3 +1,9 @@
+plasma-phone-meta (35) xenial; urgency=medium
+
+  * Remove discover for now, as it is not-installable
+
+ -- Bhushan Shah <bshah@kde.org>  Fri, 02 Jun 2017 12:04:41 +0530
+
 plasma-phone-meta (34) xenial; urgency=medium
 
   * Remove okular-mobile for now
