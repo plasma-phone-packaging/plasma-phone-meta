@@ -1,7 +1,6 @@
 apparmor
 bash-completion
 firefox
-initramfs-tools-ubuntu-touch
 kaccounts-mobile
 kdeconnect-plasma
 kinfocenter
@@ -12,14 +11,10 @@ konsole
 kpackagelauncherqml
 kwin-style-breeze
 kwin-wayland
-kwin-wayland-backend-hwcomposer
-libhybris-common1
-libhybris-test
-libhybris-utils
+kwin-wayland-backend-drm
 libpam-kwallet5
 libpam-modules
 libpam-modules-bin
-lxc-android-config
 maliit-inputcontext-gtk
 marble-maps
 muon-discover
@@ -51,7 +46,7 @@ qml-module-org-kde-solid
 qtwayland5
 screenshotapp
 signon-ui
-simplelogin
+sddm
 spacebar
 system-image-cli
 system-image-common

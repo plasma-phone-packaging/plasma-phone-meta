@@ -1,6 +1,6 @@
-plasma-phone-meta (38) xenial; urgency=medium
+plasma-phone-meta (39) xenial; urgency=medium
 
-  * Remove discover for now, as it is not-installable
+  * some more changes
 
  -- Bhushan Shah <bshah@kde.org>  Fri, 02 Jun 2017 12:04:41 +0530
 
