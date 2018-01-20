@@ -47,10 +47,5 @@ screenshotapp
 signon-ui
 sddm
 spacebar
-system-image-cli
-system-image-common
-system-image-dbus
-ubuntu-touch-customization-hooks
-ubuntu-touch-generic-initrd
 vim
 xwayland
