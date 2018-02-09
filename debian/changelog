@@ -1,6 +1,7 @@
-plasma-phone-meta (42) xenial; urgency=medium
+plasma-phone-meta (43) xenial; urgency=medium
 
   * some more changes
+  * remove spacebar
 
  -- Bhushan Shah <bshah@kde.org>  Fri, 02 Jun 2017 12:04:41 +0530
 
