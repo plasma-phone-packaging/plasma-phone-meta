@@ -10,6 +10,7 @@ kirigami-gallery
 koko
 konsole
 kpackagelauncherqml
+kwayland-integration
 kwin-style-breeze
 kwin-wayland
 kwin-wayland-backend-hwcomposer
